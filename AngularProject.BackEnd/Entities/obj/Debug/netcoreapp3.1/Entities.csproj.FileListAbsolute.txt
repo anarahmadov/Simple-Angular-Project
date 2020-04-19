@@ -1,0 +1,11 @@
+C:\Users\anara\source\repos\WebDev\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\anara\source\repos\WebDev\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\anara\source\repos\WebDev\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\anara\source\repos\WebDev\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\anara\source\repos\WebDev\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\anara\source\repos\WebDev\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\anara\source\repos\WebDev\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\anara\source\repos\WebDev\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\anara\source\repos\WebDev\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\anara\source\repos\WebDev\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\anara\source\repos\WebDev\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
